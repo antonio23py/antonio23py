@@ -23,6 +23,6 @@ In fact, I was a student in Oracle Next Education, an scholarship financed by Or
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </span>
 
-## Check ou my Social Media
+## Check out my Social Media
 <a target="_blank" href="https://www.linkedin.com/in/jorge-alburqueque/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
